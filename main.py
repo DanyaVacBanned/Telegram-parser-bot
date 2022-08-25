@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup as b
 
 #BOT
 logging.basicConfig(level=logging.INFO)
-TOKEN = '5439141231:AAHDE5lWq_cOdgzWNoXnT_H1YHJGIPGALb4'
+TOKEN = 'BOT TOKEN'
 bot = Bot(token=TOKEN)
 dp=Dispatcher(bot)
 
